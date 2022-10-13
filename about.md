@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 关于我 
+title: About Me
 ---
 
-一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
+A Old Student.
+<!-- 一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
 
 除了iOS技术，我还一直维护着这个博客，懂一些前端的基础知识。
 
@@ -20,14 +21,14 @@ title: 关于我
 
 有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~ -->
 
-
+<!-- 
 <h3> 搭建博客遇到了问题解法方法 </h3>  
 
 查看 [技术支持](http://leopardpan.cn/support/) 需求帮助
 
-博客模板会一直持续更新，请持续关注我，谢谢~
+博客模板会一直持续更新，请持续关注我，谢谢~ -->
 
 {% include comments.html %}
 

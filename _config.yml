@@ -1,6 +1,6 @@
 # Basic
 title: Siyue Zhang
-subtitle: My Blockchain Bible
+subtitle: NTU SCSE PhD Student
 description: 
 # 头像里面的标题
 avatarTitle: 
@@ -67,7 +67,7 @@ blog_button:
 nav:
     - {title: All articles, description: archive, url: '/archive'}   
     - {title: Tag, description: tags, url: '/tags'}      
-    - {title: Support, description: support, url: '/support'}      
+    # - {title: Support, description: support, url: '/support'}      
     - {title: About me, description: about, url: '/about'}   
     
 
