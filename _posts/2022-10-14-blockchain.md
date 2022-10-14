@@ -34,7 +34,7 @@ An atomic swap is an exchange of cryptocurrencies from separate blockchains. The
 
 # P2P Network
 
-![](http://siyue-zhang.github.io/images/sptdc/p2p.jepg)
+![](http://siyue-zhang.github.io/images/sptdc/p2p.jpeg)
 
 # Decentralized Autonomous Organization
 
