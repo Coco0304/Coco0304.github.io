@@ -8,7 +8,7 @@ tag: Tutorial
 # Blockchain
 
 The blockchain is a ledger logging all transactions. The state of the blockchain is maintained by everyone who’s interested in the blockchain. 
-![](https://github.com/siyue-zhang/images/sptdc/blk.png)
+![](http://siyue-zhang.github.io/images/sptdc/blk.png)
 
 # Escrow
 
@@ -34,7 +34,7 @@ An atomic swap is an exchange of cryptocurrencies from separate blockchains. The
 
 # P2P Network
 
-![](https://github.com/siyue-zhang/images/sptdc/p2p.jepg)
+![](http://siyue-zhang.github.io/images/sptdc/p2p.jepg)
 
 # Decentralized Autonomous Organization
 
