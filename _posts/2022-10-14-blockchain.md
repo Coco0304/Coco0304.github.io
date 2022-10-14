@@ -30,6 +30,7 @@ It is the sequence number of the transaction from the sender to avoid replay att
 
 # Atomic Cross-Chain Swap
 
+An atomic swap is an exchange of cryptocurrencies from separate blockchains. The term atomic derives from the term "atomic state" in which a state has no substates: the transaction either happens or doesn't. Atomic swaps use Hash Timelock Contracts (HTLC) to automate the exchange of tokens. As its name denotes, HTLC is a time-bound smart contract between parties that involves generating one cryptographic hash on each end.
 
 # P2P Network
 
