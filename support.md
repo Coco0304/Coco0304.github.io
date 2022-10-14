@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support
+title: Chat Room
 ---
 
 {% include comments.html %}
