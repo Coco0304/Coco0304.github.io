@@ -1,11 +1,11 @@
 # Basic
 title: Siyue Zhang
 subtitle: NTU SCSE PhD Student
-description: 
+description: Welcome to Siyue's blog!
 # 头像里面的标题
 avatarTitle: 
 # 头像里面的描述
-avatarDesc: 
+avatarDesc: Siyue at Kiruna.
 url: "http://siyue-zhang.github.io"
 
 # 博客是否自动生成目录，false为不生成
@@ -61,7 +61,7 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: Welcome to Siyue's blog!
+    title: Home
 
 # Navigation buttons in the front page.s
 nav:
