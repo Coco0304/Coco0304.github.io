@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 技术支持 
+title: Support
 ---
 
 {% include comments.html %}
