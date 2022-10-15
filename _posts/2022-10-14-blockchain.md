@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blockchain Tutorial
+title: Blockchain Jargons
 description: 
 tag: Tutorial
 ---
@@ -40,3 +40,6 @@ An atomic swap is an exchange of cryptocurrencies from separate blockchains. The
 
 DAO is a hedge fund without manager. People put their money in DAO. DAO invests the money based on people's votes. The smart contract manages all administrative work in the company.
 
+# Polkadot
+
+The blockchain of blockchains. 
