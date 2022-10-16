@@ -172,7 +172,8 @@ blockquote {
   border-left: 3px solid #4F4F4F; 
 }
 blockquote p:last-child {
-  margin-bottom: 10; }
+  margin-bottom: 0; 
+}
 
 ol, ul {
   margin: 0 0 1.3em 2.5em; }
