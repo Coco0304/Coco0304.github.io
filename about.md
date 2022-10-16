@@ -7,7 +7,7 @@ Life-long Learning.
 
 ## Badges
 
-![](http://siyue-zhang.github.io/images/cfa) ![](http://siyue-zhang.github.io/images/pmp)
+![](http://siyue-zhang.github.io/images/cfa.png) ![](http://siyue-zhang.github.io/images/pmp.png)
 
 ## Publications
 
