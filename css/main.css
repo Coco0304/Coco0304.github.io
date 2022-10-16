@@ -162,7 +162,7 @@ em {
 
 blockquote {
   padding-top: 10px;
-  padding-bottom: 1px;
+  padding-bottom: 10px;
   padding-left: 10px;
   margin-left: 20px;
 
@@ -172,7 +172,7 @@ blockquote {
   border-left: 3px solid #4F4F4F; 
 }
 blockquote p:last-child {
-  margin-bottom: 0; }
+  margin-bottom: 10; }
 
 ol, ul {
   margin: 0 0 1.3em 2.5em; }
