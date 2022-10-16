@@ -5,8 +5,11 @@ title: About Me
 
 Life-long Learning.
 
+## Badges
 
-# Publications
+![](http://siyue-zhang.github.io/images/cfa) ![](http://siyue-zhang.github.io/images/pmp)
+
+## Publications
 
 Zhang K, Troitzsch S, **Zhang S Y**, et al. Transactive Energy in an Urban Environment: A Case Study of Local Generation and Flexibility Potentials in a Singaporean Urban District[J]. Frontiers in Energy Research, 2021, 9: 632992.
 
