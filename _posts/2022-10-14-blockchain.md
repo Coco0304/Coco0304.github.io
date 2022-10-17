@@ -59,7 +59,33 @@ In Web 3.0 you can write smart contracts that define the logic of your applicati
 
 ![](http://siyue-zhang.github.io/images/sptdc/web3arc.png)
 
+# Ethereum Virtual Machine (EVM)
+
+EVM executes the logic defined in the smart contracts and processes the state changes that happen on this globally accessible state machine. The EVM doesn’t understand high-level languages like Solidity and Vyper, which are used to write smart contracts. Instead, you have to compile the high-level language down into bytecode, which the EVM can then execute.
+
+# Decentralized Off-Chain Storage
+
+## IPFS
+
+[](https://ipfs.io/)
+
+The IPFS system distributes and stores the data in a peer-to-peer network. IPFS also has an incentive layer known as “Filecoin.” This layer incentivizes nodes around the world to store and retrieve this data. 
+
+
+## Swarm
+
+[](https://www.ethswarm.org/)
+
+While Filecoin is a separate system, Swarm’s incentive system is built-in and enforced through smart contracts on the Ethereum blockchain for storing and retrieving data.
+
+
 # Polkadot
 
 The blockchain of blockchains. 
+
+# L2 Scaling Solutions
+
+Instead of executing transactions on the main blockchain, **sidechains** process and execute transactions. Every so often, the sidechain submits an aggregation of its recent blocks back to the primary chain.
+
+Other examples of L2 solutions are **Optimistic Rollups** and **ZK-Rollups**. The idea here is similar: We batch transactions off-chain using a “rollup” smart contract and then periodically commit these transactions to the main chain.
 
