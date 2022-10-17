@@ -67,14 +67,14 @@ EVM executes the logic defined in the smart contracts and processes the state ch
 
 ## IPFS
 
-[](https://ipfs.io/)
+[https://ipfs.io](https://ipfs.io/)
 
 The IPFS system distributes and stores the data in a peer-to-peer network. IPFS also has an incentive layer known as “Filecoin.” This layer incentivizes nodes around the world to store and retrieve this data. 
 
 
 ## Swarm
 
-[](https://www.ethswarm.org/)
+[https://www.ethswarm.org](https://www.ethswarm.org/)
 
 While Filecoin is a separate system, Swarm’s incentive system is built-in and enforced through smart contracts on the Ethereum blockchain for storing and retrieving data.
 
