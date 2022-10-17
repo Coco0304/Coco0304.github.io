@@ -40,6 +40,26 @@ An atomic swap is an exchange of cryptocurrencies from separate blockchains. The
 
 DAO is a hedge fund without manager. People put their money in DAO. DAO invests the money based on people's votes. The smart contract manages all administrative work in the company.
 
+# State Machine
+
+A machine that maintains some given program state and future states allowed on that machine. Blockchains are state machines that are instantiated with some genesis state and have very strict rules (i.e., consensus) that define how that state can transition.
+
+# Web 3.0
+
+Web2 refers to the version of the internet that dominated by companies that provide services in exchange for personal data. Web3, in the context of Ethereum, refers to decentralized apps that run on the blockchain.
+
+Web3 Benefits:
+
+* Anyone who is on the network has permission to use the service – or in other words, permission isn't required.
+* No one can block you or deny you access to the service.
+* Payments are built in via the native token, ether (ETH).
+* Ethereum is turing-complete, meaning you can program pretty much anything.
+
+In Web 3.0 you can write smart contracts that define the logic of your applications and deploy them onto the decentralized state machine. This means that every person who wants to build a blockchain application deploys their code on this shared state machine.
+
+![](http://siyue-zhang.github.io/images/sptdc/web3arc.png)
+
 # Polkadot
 
 The blockchain of blockchains. 
+
