@@ -5,6 +5,13 @@ title: About Me
 
 Life-long Learning.
 
+## Education
+
+ZJU           |  I'X  |  NTU
+:-------------------------:|:-------------------------:
+![](http://siyue-zhang.github.io/images/readme/zju.png)  |  ![](http://siyue-zhang.github.io/images/readme/x.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png)
+
+
 ## Badges
 
 CFA           |  PMP
