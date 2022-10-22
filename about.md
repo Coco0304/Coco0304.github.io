@@ -3,11 +3,14 @@ layout: page
 title: About Me
 ---
 
-Life-long Learning.
+* Renewable Energy & Microgrid. 
+* Industrial Sustainability. 
+* Project Financing & Management.
+* Machine Learning.
 
 ## Education
 
-ZJU           |  I'X  |  NTU
+ZJU (Bachelor)     |  I'X (Master)  |  NTU (PhD)
 :-------------------------:|:-------------------------:
 ![](http://siyue-zhang.github.io/images/readme/zju.png)  |  ![](http://siyue-zhang.github.io/images/readme/x.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png)
 
