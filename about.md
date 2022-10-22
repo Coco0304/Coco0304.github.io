@@ -33,3 +33,5 @@ L. Subramanian, **S. Zhang**, V. K. Advani, R. Migné and M. Cassat, "A Singapor
 Dubus, L., De Felice, M., Claudel, S., Troccoli, A. M., Goodess, C., **Zhang, S.**, ... & Thornton, H. (2017, September). The ECEM climate service: how reanalysis can help energy planning. In EMS Annual Meeting (Vol. 14, pp. EMS2017-822).
 
 Zhang, K., Subramanian, L., Yao, W., Troitzsch, S., **Zhang, S.**, Massier, T., & Wu, J. Transactive Networked Microgrid Operation: A Review of System Dimensions and Analytical Tools. Available at SSRN 4053638.
+
+Tang K, **Zhang S Y**, et al. “A Novel Solar Heat Driven Pumping System”, Chinese Patent, Reference Code: CN ZL 2014 2 0152678.7.
