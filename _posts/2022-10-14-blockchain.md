@@ -94,3 +94,13 @@ Other examples of L2 solutions are **Optimistic Rollups** and **ZK-Rollups**. Th
 The network effect is a phenomenon whereby increased numbers of people or participants improve the value of a good or service. 
 
 > “Token networks align network participants to work together toward a common goal — the growth of the network and the appreciation of the token.” — Chris Dixon
+
+# Payment Channels: bar tabs for blockchains
+
+**Open/Deposit**: Pick a party you want to make payments with
+* Escrow funds on the blockchain under both your control
+* Get IOU for those funds
+
+**Transact**: Make payments to and from conterparty by changing the balance on the IOU
+
+**Close**: Use IOU to retrieve money from blockchain
