@@ -104,3 +104,7 @@ The network effect is a phenomenon whereby increased numbers of people or partic
 **Transact**: Make payments to and from conterparty by changing the balance on the IOU
 
 **Close**: Use IOU to retrieve money from blockchain
+
+Identities are costly in payment channels because nodes need to escrow money as deposit. Identities are long lived.
+
+Payment channel network can be formed by multiple bilateral channels.
