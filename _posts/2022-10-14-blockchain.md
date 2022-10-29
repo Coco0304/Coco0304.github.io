@@ -89,3 +89,8 @@ Instead of executing transactions on the main blockchain, **sidechains** process
 
 Other examples of L2 solutions are **Optimistic Rollups** and **ZK-Rollups**. The idea here is similar: We batch transactions off-chain using a “rollup” smart contract and then periodically commit these transactions to the main chain.
 
+# Network Effect
+
+The network effect is a phenomenon whereby increased numbers of people or participants improve the value of a good or service. 
+
+> “Token networks align network participants to work together toward a common goal — the growth of the network and the appreciation of the token.” — Chris Dixon
