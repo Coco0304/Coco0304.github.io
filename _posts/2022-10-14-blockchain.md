@@ -108,3 +108,13 @@ The network effect is a phenomenon whereby increased numbers of people or partic
 Identities are costly in payment channels because nodes need to escrow money as deposit. Identities are long lived.
 
 Payment channel network can be formed by multiple bilateral channels.
+
+# Hrad Fork VS Soft Fork
+
+A **fork** is a change to the blockchain’s underlying protocol. A blockchain fork is an important upgrade to the network and can either represent a radical change or a minor one and can be initiated by developers or community members.
+
+A **hard fork** is a radical upgrade that can make previous transactions and blocks either valid or invalid and requires all validators in a network to upgrade to a newer version. It’s not backward-compatible. 
+
+A **soft fork** is an upgrade to the software that is backward-compatible and has validators in an older version of the chain see the new version as valid.
+
+Effectively, a hard fork, more often than not, leads to a permanent chain separation, as the old version is no longer compatible with the new version. Those holding tokens on the old chain are granted tokens on the new one as well because they share the same history.
