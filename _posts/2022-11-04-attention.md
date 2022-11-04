@@ -33,8 +33,20 @@ The input sequence and aligment score are 1-D vectors in the sequence-to-sequenc
 
 ![](http://siyue-zhang.github.io/images/attention/image_att.png)
 
-
 # Attention Layer
+
+In the next milestone, researchers work on including the RNN and Attention architecture into a single layer, called Attention Layer. 
+
+1. Query vector q is used as the same function of hidden state. Similarity score is measured between q and input X.
+2. Dot-product is used for the similarity function to replace MLP.
+3. Dot-product is scaled down by query dimension because large similarities will cause softmax to saturate and give vanishing gradients.
+4. Stack the query vectors of all steps together into a query matrix Q.
+![](http://siyue-zhang.github.io/images/attention/att.png)
+5. Increase the model complexity by adding key matrix and value matrix. Now the similarity is measured between query matrix Q and key matrix K. The output is obtained from the attention weights and the value matrix V, not directly from the input X.
+![](http://siyue-zhang.github.io/images/attention/att2.png)
+
+The final attention layer is formed as below.
+![](http://siyue-zhang.github.io/images/attention/att_layer.png)
 
 # Self-Attention Layer
 
