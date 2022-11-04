@@ -68,7 +68,9 @@ To learn different attention patterns at the same time, we can have multiple “
 
 # CNN with Self-Attention
 
+Self-Attention architecture can be integrated into CNN. Instead of matrix multiplication, Query, Key and Value can be computed by applying 1x1 convolution to the input features. 1x1 convolution is handy to be used for changing channel dimension. An example Self-Attention Module is listed below.
 
-
+![](http://siyue-zhang.github.io/images/attention/cnn_self_att.png)
 
 # Transformer
+
