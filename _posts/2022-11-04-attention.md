@@ -17,6 +17,11 @@ The problem with this RNN architecture lies in the fixed-size context vector, wh
 
 # Recurrent Neural Networks and Attention
 
+Attention introduces multiple context vectors into the decoder (one vector c per step). Each context vector attends to the relevent part in the input sequence. The context vector is computed as linear combination of hidden states with attention weights. The attion weights are obtained by the alignment (i.e., similarity) between the decoder state and each encoder hidden state through a softmax function. 
+
+![](http://siyue-zhang.github.io/images/attention/rn_att_.png)
+
+
 # Image Captioning with RNNs and Attention
 
 # Attention Layer
