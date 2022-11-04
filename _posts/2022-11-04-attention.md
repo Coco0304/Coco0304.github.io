@@ -50,8 +50,25 @@ The final attention layer is formed as below.
 
 # Self-Attention Layer
 
+The above cases deal with inputs with multi-modality (i.e., image and language sentence). Inputs Q (e.g., language) and X (e.g., image) are from different data sets. In the case where there is only one modal input, Q can be computed from X, which is called Self-Attention. As Q and K vectors are from the same input X, the attention is paid by a part of the input to another part of the input.
+
+![](http://siyue-zhang.github.io/images/attention/self_att.png)
+
+A key feature of Self-Attention is the **Permutation Equivariant**, which means when the order of inputs is changed, the outputs will be the same but permuted accordingly. Notably, it's different from the **Invariant**, which refers to the characteristic that outputs don't change along with the change of inputs.
+
+Because Self-Attention doesn’t “know” the order of the vectors it is processing, a positional encoding E is concatenated with the input X. E can be a learned lookup table, or a fixed function.
+
 # Masked Self-Attention Layer
 
+The mask is introduced into Self-Attention Layer to prevent vectors from “looking ahead” in the sequence. At each step, Q can only attend to K in the current and previous steps. Attention weight is set 0 between the former V and the latter V, for example, A_(1,2) is set to 0 and A_(2,1) is not.
+
+![](http://siyue-zhang.github.io/images/attention/mask.png)
+
+To learn different attention patterns at the same time, we can have multiple “Attention Heads” in parallel for query Q. Q dimension can be further spilt into independent parts (i.e., Heads H). 
+
 # CNN with Self-Attention
+
+
+
 
 # Transformer
