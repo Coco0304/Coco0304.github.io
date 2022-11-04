@@ -74,3 +74,14 @@ Self-Attention architecture can be integrated into CNN. Instead of matrix multip
 
 # Transformer
 
+A comparion of three ways of sequence processing is shown.
+
+![](http://siyue-zhang.github.io/images/attention/comp.png)
+
+Finally, the Transformer block is constructed by Self-Attention, Residual Connection, Layer Normalization and MLP. Each input vector x has an independent MLP. **Self-attention is the only interaction between vectors**, which makes the transformer highly scalable and highly parallelizable. 
+
+![](http://siyue-zhang.github.io/images/attention/tf_blk.png)
+
+A Transformer is a sequence of transformer blocks. Pretraining and fine-tuning become the mainstream paradigm of language task workflow. Companies are working on larger datasets and more transformer layers.
+
+![](http://siyue-zhang.github.io/images/attention/tf_m.png)
