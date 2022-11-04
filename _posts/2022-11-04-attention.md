@@ -29,7 +29,9 @@ The decoder doesn’t use the fact that h_i form an ordered sequence – it just
 
 # Image Captioning with RNNs and Attention
 
+The input sequence and aligment score are 1-D vectors in the sequence-to-sequence learning. They can be also in 2-D like the case of image captioning. A pre-trained image encoder is used to extract feature matrix from the image. Each output word has a context vector attending to all values in the feature matrix.
 
+![](http://siyue-zhang.github.io/images/attention/image_att.png)
 
 
 # Attention Layer
