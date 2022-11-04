@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blockchain Jargons
+title: /Blockchain/ Jargons
 description: 
 tag: Tutorial
 ---
