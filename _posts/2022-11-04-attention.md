@@ -82,6 +82,6 @@ Finally, the Transformer block is constructed by Self-Attention, Residual Connec
 
 ![](http://siyue-zhang.github.io/images/attention/tf_blk.png)
 
-A Transformer is a sequence of transformer blocks. Pretraining and fine-tuning become the mainstream paradigm of language task workflow. Companies are working on larger datasets and more transformer layers.
+A Transformer is a sequence of transformer blocks. Pretraining and fine-tuning become the mainstream paradigm of language task workflow. Companies are working on larger datasets and deeper layers.
 
 ![](http://siyue-zhang.github.io/images/attention/tf_m.png)
