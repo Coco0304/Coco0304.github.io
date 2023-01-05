@@ -24,6 +24,8 @@ CFA           |  PMP
 
 ## Publications
 
+**S. Zhang**, W. Y. B. Lim, W. C. Ng, Z. Xiong, D. Niyato, X. S. Shen, and C. Miao, "Towards Green Metaverse Networking: Technologies, Advancements and Future Directions," IEEE Network, accepted.
+
 Zhang K, Troitzsch S, **Zhang S Y**, et al. Transactive Energy in an Urban Environment: A Case Study of Local Generation and Flexibility Potentials in a Singaporean Urban District[J]. Frontiers in Energy Research, 2021, 9: 632992.
 
 **S. Zhang**, S. Nandakumar, Q. Pan, E. Yang, R. Migne and L. Subramanian, "Benchmarking Reinforcement Learning Algorithms on Island Microgrid Energy Management," 2021 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia), 2021, pp. 1-5, doi: 10.1109/ISGTAsia49270.2021.9715570.
