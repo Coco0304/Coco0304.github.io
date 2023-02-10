@@ -14,8 +14,6 @@ ZJU (Bachelor)     |  NTU (PhD)
 ![](http://siyue-zhang.github.io/images/readme/zju.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png)
 
 
-## Badges
-
 [comment]: <> (CFA           |  PMP)
 
 [comment]: <> (:-------------------------:|:-------------------------:)
