@@ -3,37 +3,41 @@ layout: page
 title: About Me
 ---
 
-* Renewable Energy & Microgrid. 
-* Industrial Sustainability. 
-* Project Financing & Management.
-* Machine Learning.
+* Land transport: Estimated time of arrival, multi-object tracking
+* Maritime transport: risk analysis and warning 
+* Data governance: spatial-temporal/time-series data enhancement
 
 ## Education
 
-ZJU (Bachelor)     |  I'X (Master)  |  NTU (PhD)
+ZJU (Bachelor)     |  NTU (PhD)
 :-------------------------:|:-------------------------:
-![](http://siyue-zhang.github.io/images/readme/zju.png)  |  ![](http://siyue-zhang.github.io/images/readme/x.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png)
+![](http://siyue-zhang.github.io/images/readme/zju.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png)
 
 
 ## Badges
 
-CFA           |  PMP
-:-------------------------:|:-------------------------:
-![](http://siyue-zhang.github.io/images/cfa.png)  |  ![](http://siyue-zhang.github.io/images/pmp.png)
+[comment]: <> (CFA           |  PMP)
+
+[comment]: <> (:-------------------------:|:-------------------------:)
+
+[comment]: <> (![]&#40;http://siyue-zhang.github.io/images/cfa.png&#41;  |  ![]&#40;http://siyue-zhang.github.io/images/pmp.png&#41;)
 
 
 ## Publications
 
-**S. Zhang**, W. Y. B. Lim, W. C. Ng, Z. Xiong, D. Niyato, X. S. Shen, and C. Miao, "Towards Green Metaverse Networking: Technologies, Advancements and Future Directions," IEEE Network, accepted.
+#### - Wang, K., Shi, X., Goh, A. P. X., & Qian, S. (2019). A machine learning-based study on pedestrian movement dynamics under emergency evacuation. Fire Safety Journal, 106, 163-176. DOI:10.1016/j.firesaf.2019.04.008
+Content: Proposed a machine learning-based analytical framework for evacuation behaviour analysis; tested its reliability and applicability on 2 evacuation cases, increased prediction accuracy by 13%.
 
-Zhang K, Troitzsch S, **Zhang S Y**, et al. Transactive Energy in an Urban Environment: A Case Study of Local Generation and Flexibility Potentials in a Singaporean Urban District[J]. Frontiers in Energy Research, 2021, 9: 632992.
+#### - Wang, K., Qian, S., & Fu, Z. (2020). A decision model for pre-evacuation time prediction based on fuzzy logic theory. In Traffic and Granular Flow 2019 (pp. 265-274). Springer, Cham. DOI: 10.1007/978-3-030-55973-1_33
+Content: Established a fuzzy-logic-based pre-evacuation model, generating strategies for pre-evacuation preparedness from evacuees’ and safety managers’ perspectives.
 
-**S. Zhang**, S. Nandakumar, Q. Pan, E. Yang, R. Migne and L. Subramanian, "Benchmarking Reinforcement Learning Algorithms on Island Microgrid Energy Management," 2021 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia), 2021, pp. 1-5, doi: 10.1109/ISGTAsia49270.2021.9715570.
+#### - Wang, K., Li, Y., & Qian, S. (2022). Analysis of Indoor Guided Pedestrian Evacuation Dynamics in Single- and Multiple-Exit Scenarios: Toward a Unified Scheme for Guide Assignment. Transportation Research Record. DOI: 10.1177/03611981221094580
+Content: Established a two-layer route choice model embedded with a “guide-evacuee” interaction module, and optimized guide assignment strategies via the mean-shift clustering method. (Best Paper Award)
 
-L. Subramanian, **S. Zhang**, V. K. Advani, R. Migné and M. Cassat, "A Singapore Case Study of an Optimal Operation Framework for Urban Micro-grids," 2021 IEEE 12th Energy Conversion Congress & Exposition - Asia (ECCE-Asia), 2021, pp. 194-198, doi: 10.1109/ECCE-Asia49820.2021.9479159.
+#### - Wang, K., Fu, Z., Li, Y., & Qian, S. (2020). Influence of human-obstacle interaction on evacuation from classrooms. Automation in Construction, 116, 103234. DOI: 10.1016/j.autcon.2020.103234
+Content: Established an agent-based movement model embedded with an “evacuee-obstacle” interaction module, and proposed strategies from behavioural optimization and geographical design.
 
-Dubus, L., De Felice, M., Claudel, S., Troccoli, A. M., Goodess, C., **Zhang, S.**, ... & Thornton, H. (2017, September). The ECEM climate service: how reanalysis can help energy planning. In EMS Annual Meeting (Vol. 14, pp. EMS2017-822).
+#### - Wan, F., Li, L., Wang, K., Chen, L., Gao, Y., Jiang, W., & Pu, S. (2022, November). MTTPRE: a multi-scale spatial-temporal model for travel time prediction. In Proceedings of the 30th International Conference on Advances in Geographic Information Systems (pp. 1-10).
+Content: Achieved 8.3%~10.86% increase in MAPE than GPS-based ETA models (DeepTTE, DeepTravel, TTPNet)
 
-Zhang, K., Subramanian, L., Yao, W., Troitzsch, S., **Zhang, S.**, Massier, T., & Wu, J. Transactive Networked Microgrid Operation: A Review of System Dimensions and Analytical Tools. Available at SSRN 4053638.
-
-Tang K, **Zhang S Y**, et al. “A Novel Solar Heat Driven Pumping System”, Chinese Patent, Reference Code: CN ZL 2014 2 0152678.7.
+#### - A dual-function dust-free teaching system enabling real-time writing. P. R. China, CN104965625B
