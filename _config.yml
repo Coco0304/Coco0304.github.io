@@ -7,7 +7,7 @@ avatarTitle:
 # 头像里面的描述
 avatarDesc: ZJU -> NTU -> HikVision -> ASTAR
 url: "http://Coco0304.github.io"
-
+# https://github.com/Coco0304/Coco0304.github.io
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
