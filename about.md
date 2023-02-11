@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About Me
+header : About Me
+group: navigation
 ---
 
 * Land transport: Estimated time of arrival, multi-object tracking

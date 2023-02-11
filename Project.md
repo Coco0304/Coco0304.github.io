@@ -4,12 +4,6 @@ title : Project
 header : Project
 group: navigation
 ---
-<!--{% include JB/setup %}-->
-
-<!--{% assign posts_collate = site.posts %}-->
-<!--<div class="page card">-->
-<!--{% include JB/posts_collate %}-->
-<!--</div>-->
 
 ## Publications
 
@@ -30,5 +24,3 @@ Content: Achieved 8.3%~10.86% increase in MAPE than GPS-based ETA models (DeepTT
 
 #### - A dual-function dust-free teaching system enabling real-time writing. P. R. China, CN104965625B
 
-
-https://github.com/Coco0304/coco_daily
