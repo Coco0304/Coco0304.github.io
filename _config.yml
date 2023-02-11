@@ -63,8 +63,8 @@ blog_button:
 nav:
     - {title: Article, description: Article, url: '/Article'}
     - {title: Tag, description: Tag, url: '/Tag'}   # collections of Articles
-    #    - {title: Chat, description: support, url: '/support'}
-    - {title: About me, description: about, url: '/about'}   
+    - {title: Project, description: Project, url: '/Project'}
+    - {title: About me, description: About, url: '/about'}
     
 
 # Pagination
