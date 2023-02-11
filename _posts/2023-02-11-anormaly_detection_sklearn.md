@@ -7,6 +7,13 @@
 - 1) randomly select a feature to classify data into two sets
 - 2) calculate a grade for each data point (lower the grade, higher possibility to be an outlier)
 
+---
+layout: post
+title: 1st article
+category: test
+tag: codes
+---
+
 
 ```python
 from sklearn.ensemble import IsolationForest
