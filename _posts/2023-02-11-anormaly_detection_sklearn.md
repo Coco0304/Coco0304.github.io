@@ -1,9 +1,8 @@
-
 ---
 layout: post
-title: 1st article
-category: test
-tag: codes
+title: anormaly detection
+category: algorithm
+tag: code
 ---
 
 ### Anormaly detection 
