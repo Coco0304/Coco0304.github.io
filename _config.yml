@@ -62,7 +62,7 @@ blog_button:
 # Navigation buttons in the front page.s
 nav:
     - {title: Article, description: Article, url: '/Article'}
-    - {title: Project, description: Project, url: '/Project'}
+    - {title: Tag, description: Tag, url: '/Tag'}   # collections of Articles
     #    - {title: Chat, description: support, url: '/support'}
     - {title: About me, description: about, url: '/about'}   
     
