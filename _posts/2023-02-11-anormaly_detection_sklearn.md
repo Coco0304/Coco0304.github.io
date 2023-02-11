@@ -1,3 +1,11 @@
+
+---
+layout: post
+title: 1st article
+category: test
+tag: codes
+---
+
 ### Anormaly detection 
 - type 1: outlier detection, semi-supervised (outliers are inside the data)
 - type 2: novelty detection, unsupervided (outliers are from new data)
