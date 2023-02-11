@@ -14,13 +14,6 @@ ZJU (Bachelor)     |  NTU (PhD)
 ![](http://siyue-zhang.github.io/images/readme/zju.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png)
 
 
-[comment]: <> (CFA           |  PMP)
-
-[comment]: <> (:-------------------------:|:-------------------------:)
-
-[comment]: <> (![]&#40;http://siyue-zhang.github.io/images/cfa.png&#41;  |  ![]&#40;http://siyue-zhang.github.io/images/pmp.png&#41;)
-
-
 ## Publications
 
 #### - Wang, K., Shi, X., Goh, A. P. X., & Qian, S. (2019). A machine learning-based study on pedestrian movement dynamics under emergency evacuation. Fire Safety Journal, 106, 163-176. DOI:10.1016/j.firesaf.2019.04.008
