@@ -9,10 +9,11 @@ group: navigation
 * Maritime transport: risk analysis and warning 
 * Data governance: spatial-temporal/time-series data enhancement
 
-## Education
+## Education and work experience 
 
-ZJU (Bachelor)     |  NTU (PhD)
+ZJU (Bachelor)     |  NTU (PhD)  | Hikvision | Astar
 :-------------------------:|:-------------------------:
-![](http://siyue-zhang.github.io/images/readme/zju.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png)
+![](http://siyue-zhang.github.io/images/readme/zju.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png) 
+| ![](http://Coco0304.github.io/images/readme/Hikvision.png) | ![](http://Coco0304.github.io/images/readme/astar.jpg)
 
 
