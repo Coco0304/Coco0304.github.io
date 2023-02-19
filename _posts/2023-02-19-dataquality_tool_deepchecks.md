@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: data quality
@@ -57,39 +56,6 @@ suite_result.show()
 
 
 
-<style>
-    progress {
-        -webkit-appearance: none;
-        border: none;
-        border-radius: 3px;
-        width: 300px;
-        height: 20px;
-        vertical-align: middle;
-        margin-right: 10px;
-        background-color: aliceblue;
-    }
-    progress::-webkit-progress-bar {
-        border-radius: 3px;
-        background-color: aliceblue;
-    }
-    progress::-webkit-progress-value {
-        background-color: #9d60fb;
-    }
-    progress::-moz-progress-bar {
-        background-color: #9d60fb;
-    }
-</style>
-
-
-
-
-
-
-
-
-    Accordion(children=(VBox(children=(HTML(value='\n<h1 id="summary_PAG8NVIZQYRZKKMYNRZCQ6Z4V">Data Integrity Sui…
-
-
 #### 1-2. Train-Test Validation Suite
 - Usage: compare two data subsets
 
@@ -129,40 +95,6 @@ suite_result
 ```
 
 
-
-<style>
-    progress {
-        -webkit-appearance: none;
-        border: none;
-        border-radius: 3px;
-        width: 300px;
-        height: 20px;
-        vertical-align: middle;
-        margin-right: 10px;
-        background-color: aliceblue;
-    }
-    progress::-webkit-progress-bar {
-        border-radius: 3px;
-        background-color: aliceblue;
-    }
-    progress::-webkit-progress-value {
-        background-color: #9d60fb;
-    }
-    progress::-moz-progress-bar {
-        background-color: #9d60fb;
-    }
-</style>
-
-
-
-
-
-
-
-
-    Accordion(children=(VBox(children=(HTML(value='\n<h1 id="summary_CKUQJ0LYX0ONKFHGLEWBZ7KYS">Train Test Validat…
-
-
 #### 1-3. Model Evaluation Suite
 - evaluate model performance 
 - 1) Thorough analysis of the model’s performance before deploying it.
@@ -196,40 +128,5 @@ suite_result = evaluation_suite.run(train_ds, test_ds, gbr)
 # or exported to json using suite_result.to_json()
 suite_result.show()
 ```
-
-
-
-<style>
-    progress {
-        -webkit-appearance: none;
-        border: none;
-        border-radius: 3px;
-        width: 300px;
-        height: 20px;
-        vertical-align: middle;
-        margin-right: 10px;
-        background-color: aliceblue;
-    }
-    progress::-webkit-progress-bar {
-        border-radius: 3px;
-        background-color: aliceblue;
-    }
-    progress::-webkit-progress-value {
-        background-color: #9d60fb;
-    }
-    progress::-moz-progress-bar {
-        background-color: #9d60fb;
-    }
-</style>
-
-
-
-
-
-
-
-
-    Accordion(children=(VBox(children=(HTML(value='\n<h1 id="summary_7E8LP20K38A2VK3M9TTB66VE0">Model Evaluation S…
-
 
 
