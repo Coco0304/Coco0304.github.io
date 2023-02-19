@@ -2,8 +2,8 @@
 ---
 layout: post
 title: data quality
-category: toolbox
-tag: data quality/toolbox
+category: algorithm
+tag: Algorithm/data quality
 ---
 
 ## Deepchecks [validation machine learning models and data]
