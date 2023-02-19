@@ -2,7 +2,7 @@
 layout: post
 title: data quality
 category: algorithm
-tag: Algorithm
+tag: python package
 ---
 
 ## Deepchecks [validation machine learning models and data]
