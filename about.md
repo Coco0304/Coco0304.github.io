@@ -13,7 +13,6 @@ group: navigation
 
 ZJU (Bachelor)     |  NTU (PhD)  | Hikvision(algorithm engineer) | Astar(scientist)
 :-------------------------:|:-------------------------:
-![](http://siyue-zhang.github.io/images/readme/zju.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png)|
-![](http://Coco0304.github.io/images/readme/Hikvision.png) | ![](http://Coco0304.github.io/images/readme/astar.jpg)
+![](http://siyue-zhang.github.io/images/readme/zju.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png)| ![](http://Coco0304.github.io/images/readme/Hikvision.png) | ![](http://Coco0304.github.io/images/readme/astar.jpg)
 
 
