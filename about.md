@@ -11,8 +11,16 @@ group: navigation
 
 ## Education and work experience 
 
-ZJU (Bachelor)     |  NTU (PhD)  | Hikvision(algorithm engineer) | Astar(scientist)
-:-------------------------:|:-------------------------:
-![](http://siyue-zhang.github.io/images/readme/zju.png) | ![](http://siyue-zhang.github.io/images/readme/ntu.png)| ![](http://Coco0304.github.io/images/readme/Hikvision.png) | ![](http://Coco0304.github.io/images/readme/astar.jpg)
+* ZJU (Bachelor)
+  ![](http://siyue-zhang.github.io/images/readme/zju.png) 
+  
+* NTU (PhD)
+  ![](http://siyue-zhang.github.io/images/readme/ntu.png)
+  
+* Hikvision(algorithm engineer)
+  ![](http://Coco0304.github.io/images/readme/Hikvision.png)
+  
+* Astar(scientist)
+  ![](http://Coco0304.github.io/images/readme/astar.jpg)
 
 
