@@ -2,7 +2,7 @@
 layout: post
 title: anormaly detection
 category: algorithm
-tag: Algorithm/anormaly detection
+tag: Algorithm
 ---
 
 ### Anormaly detection 

@@ -3,7 +3,7 @@
 layout: post
 title: data quality
 category: algorithm
-tag: Algorithm/data quality
+tag: Algorithm
 ---
 
 ## Deepchecks [validation machine learning models and data]
